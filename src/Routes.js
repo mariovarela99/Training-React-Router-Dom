@@ -4,6 +4,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import HomePage from "./Home";
 import Page1 from "./Página 1";
 import Page2 from "./Página 2";
+import "./reset.css";
 
 function Routes() {
   return (
